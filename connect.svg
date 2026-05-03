@@ -1,0 +1,56 @@
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="100%" style="stop-color:#111827"/>
+    </linearGradient>
+    <linearGradient id="acc5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e94560"/>
+      <stop offset="100%" style="stop-color:#ff6b6b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="160" fill="url(#bg5)"/>
+  <defs>
+    <pattern id="grid5" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="0.15" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="160" fill="url(#grid5)"/>
+
+  <!-- Section heading -->
+  <text x="30" y="40" font-family="'Georgia', serif" font-weight="900" font-size="26" fill="#ffffff" letter-spacing="2">CONNECT</text>
+  <rect x="30" y="48" width="60" height="2.5" fill="url(#acc5)" rx="2"/>
+
+  <!-- Gmail card -->
+  <rect x="30" y="68" width="244" height="72" rx="12" fill="#1e1e2e" stroke="#D14836" stroke-width="0.8"/>
+  <!-- Gmail icon circle -->
+  <circle cx="62" cy="104" r="18" fill="#D14836" fill-opacity="0.15"/>
+  <!-- Gmail M shape -->
+  <text x="62" y="110" text-anchor="middle" font-family="'Georgia', serif" font-weight="900" font-size="16" fill="#D14836">M</text>
+  <text x="94" y="98" font-family="'Georgia', serif" font-weight="700" font-size="11" fill="#ffffff">Gmail</text>
+  <text x="94" y="114" font-family="'Georgia', serif" font-size="10" fill="#a0aec0">bischofnkhata3@gmail.com</text>
+
+  <!-- GitHub card -->
+  <rect x="286" y="68" width="200" height="72" rx="12" fill="#1e1e2e" stroke="#6e5494" stroke-width="0.8"/>
+  <circle cx="318" cy="104" r="18" fill="#6e5494" fill-opacity="0.15"/>
+  <!-- GitHub octocat simplified -->
+  <circle cx="318" cy="101" r="9" fill="#ffffff" fill-opacity="0.0" stroke="#6e5494" stroke-width="2"/>
+  <text x="318" y="107" text-anchor="middle" font-family="'Georgia', serif" font-weight="900" font-size="14" fill="#6e5494">&#9426;</text>
+  <text x="348" y="98" font-family="'Georgia', serif" font-weight="700" font-size="11" fill="#ffffff">GitHub</text>
+  <text x="348" y="114" font-family="'Georgia', serif" font-size="10" fill="#a0aec0">@BischofNkhata</text>
+
+  <!-- WhatsApp card -->
+  <rect x="498" y="68" width="190" height="72" rx="12" fill="#1e1e2e" stroke="#25D366" stroke-width="0.8"/>
+  <circle cx="528" cy="104" r="18" fill="#25D366" fill-opacity="0.15"/>
+  <text x="528" y="110" text-anchor="middle" font-family="'Georgia', serif" font-weight="900" font-size="15" fill="#25D366">W</text>
+  <text x="558" y="98" font-family="'Georgia', serif" font-weight="700" font-size="11" fill="#ffffff">WhatsApp</text>
+  <text x="558" y="114" font-family="'Georgia', serif" font-size="10" fill="#a0aec0">+265 992 501 767</text>
+
+  <!-- Availability tag -->
+  <rect x="700" y="68" width="170" height="72" rx="12" fill="#1e1e2e" stroke="#48bb78" stroke-width="0.8"/>
+  <circle cx="716" cy="90" r="5" fill="#48bb78"/>
+  <text x="728" y="94" font-family="'Georgia', serif" font-size="10" fill="#9ae6b4">Open to work</text>
+  <text x="710" y="114" font-family="'Georgia', serif" font-size="9.5" fill="#718096">Freelance · Full-time</text>
+  <text x="710" y="129" font-family="'Georgia', serif" font-size="9.5" fill="#718096">African market focus</text>
+</svg>

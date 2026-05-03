@@ -1,0 +1,79 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="100%" style="stop-color:#111827"/>
+    </linearGradient>
+    <linearGradient id="acc7" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e94560"/>
+      <stop offset="100%" style="stop-color:#ff6b6b"/>
+    </linearGradient>
+    <linearGradient id="pulseGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e94560;stop-opacity:0.08"/>
+      <stop offset="50%" style="stop-color:#e94560;stop-opacity:0.18"/>
+      <stop offset="100%" style="stop-color:#e94560;stop-opacity:0.08"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg7)"/>
+  <defs>
+    <pattern id="grid7" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="0.15" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="220" fill="url(#grid7)"/>
+
+  <!-- Section heading -->
+  <text x="30" y="44" font-family="'Georgia', serif" font-weight="900" font-size="26" fill="#ffffff" letter-spacing="2">CURRENTLY BUILDING</text>
+  <text x="30" y="60" font-family="'Georgia', serif" font-weight="900" font-size="26" fill="none" stroke="#ffffff" stroke-width="0.8" stroke-opacity="0.15" letter-spacing="2">CURRENTLY BUILDING</text>
+  <rect x="30" y="68" width="60" height="2.5" fill="url(#acc7)" rx="2"/>
+
+  <!-- Portfolio card (wide) -->
+  <rect x="30" y="86" width="518" height="118" rx="14" fill="#1a1a2e" stroke="#e94560" stroke-width="1"/>
+  <rect x="30" y="86" width="518" height="118" rx="14" fill="url(#pulseGrad)"/>
+  <rect x="30" y="86" width="5" height="118" rx="3" fill="url(#acc7)"/>
+
+  <!-- Blinking dot -->
+  <circle cx="56" cy="106" r="5" fill="#e94560" opacity="0.9"/>
+  <circle cx="56" cy="106" r="9" fill="#e94560" fill-opacity="0.2"/>
+
+  <text x="78" y="110" font-family="'Georgia', serif" font-weight="700" font-size="14" fill="#ffffff">Personal Portfolio Website</text>
+  <rect x="78" y="118" width="96" height="18" rx="9" fill="#e94560" fill-opacity="0.2" stroke="#e94560" stroke-width="0.8"/>
+  <text x="126" y="130" text-anchor="middle" font-family="'Georgia', serif" font-size="9.5" fill="#e94560">In Development</text>
+
+  <text x="48" y="158" font-family="'Georgia', serif" font-size="10.5" fill="#a0aec0">Full-stack portfolio with projects showcase, blog &amp; live contact system.</text>
+  <text x="48" y="174" font-family="'Georgia', serif" font-size="10.5" fill="#a0aec0">Deployed on Vercel · React (Vite) · FastAPI · PostgreSQL · Docker</text>
+
+  <!-- Stack pills -->
+  <rect x="48" y="186" width="46" height="16" rx="8" fill="#61DAFB" fill-opacity="0.15"/>
+  <text x="71" y="197" text-anchor="middle" font-family="'Georgia', serif" font-size="8.5" fill="#61DAFB">React</text>
+  <rect x="102" y="186" width="46" height="16" rx="8" fill="#646CFF" fill-opacity="0.15"/>
+  <text x="125" y="197" text-anchor="middle" font-family="'Georgia', serif" font-size="8.5" fill="#646CFF">Vite</text>
+  <rect x="156" y="186" width="52" height="16" rx="8" fill="#009688" fill-opacity="0.15"/>
+  <text x="182" y="197" text-anchor="middle" font-family="'Georgia', serif" font-size="8.5" fill="#009688">FastAPI</text>
+  <rect x="216" y="186" width="70" height="16" rx="8" fill="#316192" fill-opacity="0.15"/>
+  <text x="251" y="197" text-anchor="middle" font-family="'Georgia', serif" font-size="8.5" fill="#316192">PostgreSQL</text>
+  <rect x="294" y="186" width="48" height="16" rx="8" fill="#2496ED" fill-opacity="0.15"/>
+  <text x="318" y="197" text-anchor="middle" font-family="'Georgia', serif" font-size="8.5" fill="#2496ED">Docker</text>
+  <rect x="350" y="186" width="48" height="16" rx="8" fill="#000" fill-opacity="0.4" stroke="#ffffff" stroke-width="0.5"/>
+  <text x="374" y="197" text-anchor="middle" font-family="'Georgia', serif" font-size="8.5" fill="#ffffff">Vercel</text>
+
+  <!-- SmartPrint card (right) -->
+  <rect x="560" y="86" width="310" height="118" rx="14" fill="#1a1a2e" stroke="#48bb78" stroke-width="0.8"/>
+  <rect x="560" y="86" width="5" height="118" rx="3" fill="#48bb78"/>
+
+  <circle cx="585" cy="106" r="5" fill="#48bb78" opacity="0.9"/>
+  <circle cx="585" cy="106" r="9" fill="#48bb78" fill-opacity="0.2"/>
+
+  <text x="607" y="110" font-family="'Georgia', serif" font-weight="700" font-size="13" fill="#ffffff">SmartPrint Business System</text>
+  <rect x="607" y="118" width="60" height="18" rx="9" fill="#48bb78" fill-opacity="0.2" stroke="#48bb78" stroke-width="0.8"/>
+  <text x="637" y="130" text-anchor="middle" font-family="'Georgia', serif" font-size="9.5" fill="#48bb78">Active</text>
+
+  <text x="578" y="158" font-family="'Georgia', serif" font-size="10" fill="#a0aec0">All-in-one MIS for modern</text>
+  <text x="578" y="173" font-family="'Georgia', serif" font-size="10" fill="#a0aec0">printing businesses.</text>
+
+  <rect x="578" y="186" width="68" height="16" rx="8" fill="#007ACC" fill-opacity="0.15"/>
+  <text x="612" y="197" text-anchor="middle" font-family="'Georgia', serif" font-size="8.5" fill="#007ACC">TypeScript</text>
+  <rect x="654" y="186" width="38" height="16" rx="8" fill="#61DAFB" fill-opacity="0.15"/>
+  <text x="673" y="197" text-anchor="middle" font-family="'Georgia', serif" font-size="8.5" fill="#61DAFB">React</text>
+</svg>

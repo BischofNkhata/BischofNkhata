@@ -1,0 +1,101 @@
+<svg width="900" height="310" viewBox="0 0 900 310" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="100%" style="stop-color:#111827"/>
+    </linearGradient>
+    <linearGradient id="acc2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e94560"/>
+      <stop offset="100%" style="stop-color:#ff6b6b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="310" fill="url(#bg2)"/>
+  <!-- grid -->
+  <defs>
+    <pattern id="grid2" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="0.15" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="310" fill="url(#grid2)"/>
+
+  <!-- Section heading -->
+  <text x="30" y="44" font-family="'Georgia', serif" font-weight="900" font-size="26" fill="#ffffff" letter-spacing="2">RECENT PROJECTS</text>
+  <text x="30" y="60" font-family="'Georgia', serif" font-weight="900" font-size="26" fill="none" stroke="#ffffff" stroke-width="0.8" stroke-opacity="0.15" letter-spacing="2">RECENT PROJECTS</text>
+  <rect x="30" y="68" width="60" height="2.5" fill="url(#acc2)" rx="2"/>
+
+  <!-- Project cards: 3 per row -->
+  <!-- Card 1: SmartPrint -->
+  <rect x="30" y="88" width="258" height="100" rx="12" fill="#1a1a2e" stroke="#e94560" stroke-width="0.7" stroke-opacity="0.5"/>
+  <rect x="30" y="88" width="4" height="100" rx="2" fill="#e94560"/>
+  <text x="48" y="112" font-family="'Georgia', serif" font-weight="700" font-size="12" fill="#ffffff">SmartPrint Business System</text>
+  <text x="48" y="128" font-family="'Georgia', serif" font-size="10" fill="#718096">All-in-one MIS for printing businesses.</text>
+  <text x="48" y="143" font-family="'Georgia', serif" font-size="10" fill="#718096">Orders · Inventory · Analytics</text>
+  <rect x="48" y="155" width="60" height="18" rx="9" fill="#c05621" fill-opacity="0.7"/>
+  <text x="78" y="167" text-anchor="middle" font-family="'Georgia', serif" font-size="9" fill="#fed7aa" letter-spacing="0.5">TypeScript</text>
+  <rect x="116" y="155" width="46" height="18" rx="9" fill="#2b4c7e" fill-opacity="0.7"/>
+  <text x="139" y="167" text-anchor="middle" font-family="'Georgia', serif" font-size="9" fill="#90cdf4">React</text>
+  <rect x="170" y="155" width="70" height="18" rx="9" fill="#276749" fill-opacity="0.7"/>
+  <text x="205" y="167" text-anchor="middle" font-family="'Georgia', serif" font-size="9" fill="#9ae6b4">PostgreSQL</text>
+  <text x="270" y="112" text-anchor="end" font-family="'Georgia', serif" font-size="9" fill="#e94560">2026</text>
+
+  <!-- Card 2: Madalisto -->
+  <rect x="321" y="88" width="258" height="100" rx="12" fill="#1a1a2e" stroke="#e94560" stroke-width="0.7" stroke-opacity="0.5"/>
+  <rect x="321" y="88" width="4" height="100" rx="2" fill="#ff6b6b"/>
+  <text x="339" y="112" font-family="'Georgia', serif" font-weight="700" font-size="12" fill="#ffffff">Madalisto Online Bookstore</text>
+  <text x="339" y="128" font-family="'Georgia', serif" font-size="10" fill="#718096">Subscription platform with mobile</text>
+  <text x="339" y="143" font-family="'Georgia', serif" font-size="10" fill="#718096">money &amp; bank payment integration.</text>
+  <rect x="339" y="155" width="38" height="18" rx="9" fill="#c05621" fill-opacity="0.7"/>
+  <text x="358" y="167" text-anchor="middle" font-family="'Georgia', serif" font-size="9" fill="#fed7aa">React</text>
+  <rect x="385" y="155" width="52" height="18" rx="9" fill="#276749" fill-opacity="0.7"/>
+  <text x="411" y="167" text-anchor="middle" font-family="'Georgia', serif" font-size="9" fill="#9ae6b4">FastAPI</text>
+  <rect x="445" y="155" width="70" height="18" rx="9" fill="#2b4c7e" fill-opacity="0.7"/>
+  <text x="480" y="167" text-anchor="middle" font-family="'Georgia', serif" font-size="9" fill="#90cdf4">PostgreSQL</text>
+  <text x="561" y="112" text-anchor="end" font-family="'Georgia', serif" font-size="9" fill="#e94560">2026</text>
+
+  <!-- Card 3: Panda Graphics -->
+  <rect x="612" y="88" width="258" height="100" rx="12" fill="#1a1a2e" stroke="#e94560" stroke-width="0.7" stroke-opacity="0.5"/>
+  <rect x="612" y="88" width="4" height="100" rx="2" fill="#e94560"/>
+  <text x="630" y="112" font-family="'Georgia', serif" font-weight="700" font-size="12" fill="#ffffff">Panda Graphics Website</text>
+  <text x="630" y="128" font-family="'Georgia', serif" font-size="10" fill="#718096">Responsive agency site. Full UI/UX</text>
+  <text x="630" y="143" font-family="'Georgia', serif" font-size="10" fill="#718096">design &amp; frontend build.</text>
+  <rect x="630" y="155" width="68" height="18" rx="9" fill="#c05621" fill-opacity="0.7"/>
+  <text x="664" y="167" text-anchor="middle" font-family="'Georgia', serif" font-size="9" fill="#fed7aa">TypeScript</text>
+  <rect x="706" y="155" width="38" height="18" rx="9" fill="#2b4c7e" fill-opacity="0.7"/>
+  <text x="725" y="167" text-anchor="middle" font-family="'Georgia', serif" font-size="9" fill="#90cdf4">React</text>
+  <text x="852" y="112" text-anchor="end" font-family="'Georgia', serif" font-size="9" fill="#e94560">2026</text>
+
+  <!-- Row 2 -->
+  <!-- Card 4: Chizimba -->
+  <rect x="30" y="204" width="258" height="92" rx="12" fill="#1a1a2e" stroke="#e94560" stroke-width="0.7" stroke-opacity="0.5"/>
+  <rect x="30" y="204" width="4" height="92" rx="2" fill="#276749"/>
+  <text x="48" y="226" font-family="'Georgia', serif" font-weight="700" font-size="12" fill="#ffffff">Chizimba Data Mgmt System</text>
+  <text x="48" y="242" font-family="'Georgia', serif" font-size="10" fill="#718096">Offline election results aggregation</text>
+  <text x="48" y="257" font-family="'Georgia', serif" font-size="10" fill="#718096">for low-connectivity environments.</text>
+  <rect x="48" y="269" width="72" height="18" rx="9" fill="#2b4c7e" fill-opacity="0.7"/>
+  <text x="84" y="281" text-anchor="middle" font-family="'Georgia', serif" font-size="9" fill="#90cdf4">JavaScript</text>
+  <text x="270" y="226" text-anchor="end" font-family="'Georgia', serif" font-size="9" fill="#e94560">2025</text>
+
+  <!-- Card 5: Faga -->
+  <rect x="321" y="204" width="258" height="92" rx="12" fill="#1a1a2e" stroke="#e94560" stroke-width="0.7" stroke-opacity="0.5"/>
+  <rect x="321" y="204" width="4" height="92" rx="2" fill="#c05621"/>
+  <text x="339" y="226" font-family="'Georgia', serif" font-weight="700" font-size="12" fill="#ffffff">Faga Poultry Farm — Inventory</text>
+  <text x="339" y="242" font-family="'Georgia', serif" font-size="10" fill="#718096">Digitised farm operations, stock</text>
+  <text x="339" y="257" font-family="'Georgia', serif" font-size="10" fill="#718096">tracking, production &amp; sales modules.</text>
+  <rect x="339" y="269" width="68" height="18" rx="9" fill="#c05621" fill-opacity="0.7"/>
+  <text x="373" y="281" text-anchor="middle" font-family="'Georgia', serif" font-size="9" fill="#fed7aa">TypeScript</text>
+  <text x="561" y="226" text-anchor="end" font-family="'Georgia', serif" font-size="9" fill="#e94560">2025</text>
+
+  <!-- Card 6: GAIAthon -->
+  <rect x="612" y="204" width="258" height="92" rx="12" fill="#1a1a2e" stroke="#FFD700" stroke-width="1" stroke-opacity="0.7"/>
+  <rect x="612" y="204" width="4" height="92" rx="2" fill="#FFD700"/>
+  <text x="630" y="222" font-family="'Georgia', serif" font-weight="700" font-size="11.5" fill="#ffffff">Waste Management Optimizer</text>
+  <text x="630" y="237" font-family="'Georgia', serif" font-size="10" fill="#FFD700">🏆 GAIAthon 2025 — 3rd Place</text>
+  <text x="630" y="252" font-family="'Georgia', serif" font-size="10" fill="#718096">Smart waste collection using</text>
+  <text x="630" y="267" font-family="'Georgia', serif" font-size="10" fill="#718096">sensor data &amp; real-time monitoring.</text>
+  <rect x="630" y="279" width="38" height="18" rx="9" fill="#276749" fill-opacity="0.7"/>
+  <text x="649" y="291" text-anchor="middle" font-family="'Georgia', serif" font-size="9" fill="#9ae6b4">Python</text>
+  <rect x="676" y="279" width="32" height="18" rx="9" fill="#2b4c7e" fill-opacity="0.7"/>
+  <text x="692" y="291" text-anchor="middle" font-family="'Georgia', serif" font-size="9" fill="#90cdf4">IoT</text>
+  <text x="852" y="222" text-anchor="end" font-family="'Georgia', serif" font-size="9" fill="#e94560">2025</text>
+</svg>

@@ -1,0 +1,62 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="100%" style="stop-color:#111827"/>
+    </linearGradient>
+    <linearGradient id="acc3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e94560"/>
+      <stop offset="100%" style="stop-color:#ff6b6b"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f6d365"/>
+      <stop offset="100%" style="stop-color:#fda085"/>
+    </linearGradient>
+    <linearGradient id="bronzeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#CD7F32"/>
+      <stop offset="100%" style="stop-color:#a05a2c"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg3)"/>
+  <defs>
+    <pattern id="grid3" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="0.15" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="220" fill="url(#grid3)"/>
+
+  <!-- Section heading -->
+  <text x="30" y="44" font-family="'Georgia', serif" font-weight="900" font-size="26" fill="#ffffff" letter-spacing="2">ACHIEVEMENTS</text>
+  <text x="30" y="60" font-family="'Georgia', serif" font-weight="900" font-size="26" fill="none" stroke="#ffffff" stroke-width="0.8" stroke-opacity="0.15" letter-spacing="2">ACHIEVEMENTS</text>
+  <rect x="30" y="68" width="60" height="2.5" fill="url(#acc3)" rx="2"/>
+
+  <!-- GAIAthon Award Card -->
+  <rect x="30" y="88" width="420" height="114" rx="14" fill="#1a1a2e" stroke="#CD7F32" stroke-width="1.2"/>
+  <!-- Bronze medal circle -->
+  <circle cx="72" cy="145" r="32" fill="url(#bronzeGrad)" opacity="0.9"/>
+  <text x="72" y="138" text-anchor="middle" font-family="'Georgia', serif" font-weight="900" font-size="11" fill="#fff">3RD</text>
+  <text x="72" y="152" text-anchor="middle" font-family="'Georgia', serif" font-weight="900" font-size="11" fill="#fff">PLACE</text>
+  <text x="72" y="164" text-anchor="middle" font-family="'Georgia', serif" font-size="9" fill="#fff" opacity="0.85">2025</text>
+  <!-- Text content -->
+  <text x="118" y="112" font-family="'Georgia', serif" font-weight="700" font-size="13.5" fill="#ffffff">GAIAthon 2025 Incubation Challenge</text>
+  <text x="118" y="132" font-family="'Georgia', serif" font-size="10.5" fill="#a0aec0">European Commission · African Union Commission</text>
+  <text x="118" y="148" font-family="'Georgia', serif" font-size="10.5" fill="#a0aec0">Edenway Foundation</text>
+  <text x="118" y="168" font-family="'Georgia', serif" font-size="10" fill="#CD7F32">Waste Management Optimizer — Smart IoT Solution</text>
+  <!-- Glow ring -->
+  <circle cx="72" cy="145" r="36" fill="none" stroke="#CD7F32" stroke-width="0.8" stroke-opacity="0.4"/>
+
+  <!-- Life Skills Award Card -->
+  <rect x="468" y="88" width="404" height="114" rx="14" fill="#1a1a2e" stroke="#f6d365" stroke-width="1.2"/>
+  <!-- Gold medal circle -->
+  <circle cx="510" cy="145" r="32" fill="url(#goldGrad)" opacity="0.9"/>
+  <text x="510" y="141" text-anchor="middle" font-family="'Georgia', serif" font-weight="900" font-size="13" fill="#fff">★</text>
+  <text x="510" y="158" text-anchor="middle" font-family="'Georgia', serif" font-size="9" fill="#fff" opacity="0.9">2020</text>
+  <!-- Text content -->
+  <text x="556" y="112" font-family="'Georgia', serif" font-weight="700" font-size="13.5" fill="#ffffff">Best in Life Skills</text>
+  <text x="556" y="132" font-family="'Georgia', serif" font-size="10.5" fill="#a0aec0">Zomba Catholic Secondary School</text>
+  <text x="556" y="152" font-family="'Georgia', serif" font-size="10.5" fill="#a0aec0">Certificate of Recognition</text>
+  <text x="556" y="172" font-family="'Georgia', serif" font-size="10" fill="#f6d365">Excellence in leadership &amp; personal development</text>
+  <!-- Glow ring -->
+  <circle cx="510" cy="145" r="36" fill="none" stroke="#f6d365" stroke-width="0.8" stroke-opacity="0.4"/>
+</svg>
