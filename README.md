@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/hero.png" width="100%" alt="Bischof Nkhata — Full Stack Developer"/>
+  <img src="hero.png" width="100%" alt="Bischof Nkhata — Full Stack Developer"/>
 </div>
 
 <br>
@@ -17,19 +17,19 @@
 ---
 
 <div align="center">
-  <img src="assets/currently_building.png" width="100%" alt="Currently Building"/>
+  <img src="currently_building.png" width="100%" alt="Currently Building"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="assets/techstack.png" width="100%" alt="Tech Stack"/>
+  <img src="techstack.png" width="100%" alt="Tech Stack"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="assets/projects.png" width="100%" alt="Recent Projects"/>
+  <img src="projects.png" width="100%" alt="Recent Projects"/>
 </div>
 
 <div align="center">
@@ -43,19 +43,19 @@
 ---
 
 <div align="center">
-  <img src="assets/achievements.png" width="100%" alt="Achievements"/>
+  <img src="achievements.png" width="100%" alt="Achievements"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="assets/certifications.png" width="100%" alt="Certifications"/>
+  <img src="certifications.png" width="100%" alt="Certifications"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="assets/connect.png" width="100%" alt="Connect"/>
+  <img src="connect.png" width="100%" alt="Connect"/>
 </div>
 
 <div align="center">
