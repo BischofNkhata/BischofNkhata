@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Bischof Nkhata — Full Stack Developer"/>
+  <img src="assets/hero.png" width="100%" alt="Bischof Nkhata — Full Stack Developer"/>
 </div>
 
 <br>
@@ -17,42 +17,45 @@
 ---
 
 <div align="center">
-  <img src="assets/currently_building.svg" width="100%" alt="Currently Building"/>
+  <img src="assets/currently_building.png" width="100%" alt="Currently Building"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="assets/techstack.svg" width="100%" alt="Tech Stack"/>
+  <img src="assets/techstack.png" width="100%" alt="Tech Stack"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="assets/projects.svg" width="100%" alt="Recent Projects"/>
+  <img src="assets/projects.png" width="100%" alt="Recent Projects"/>
 </div>
 
-**View all repositories →**
+<div align="center">
+
 [![SmartPrint](https://img.shields.io/badge/SmartPrint%20Business%20System-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BischofNkhata/SmartPrint-Business-System)
 [![Panda Graphics](https://img.shields.io/badge/Panda%20Graphics%20Website-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BischofNkhata/panda-graphics)
 [![Faga Farm](https://img.shields.io/badge/Faga%20Inventory%20System-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BischofNkhata/Faga-Production-inventory-management-system)
 
----
-
-<div align="center">
-  <img src="assets/achievements.svg" width="100%" alt="Achievements"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="assets/certifications.svg" width="100%" alt="Certifications"/>
+  <img src="assets/achievements.png" width="100%" alt="Achievements"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="assets/connect.svg" width="100%" alt="Connect"/>
+  <img src="assets/certifications.png" width="100%" alt="Certifications"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="assets/connect.png" width="100%" alt="Connect"/>
 </div>
 
 <div align="center">
